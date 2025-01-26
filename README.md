@@ -12,7 +12,7 @@ This repository contains **diverse projects**, covering:
 ✅ **Digital Design & User Experience** (Figma, Photoshop)
 ✅ **Business Technology & Digital Marketing** (Michael Porter's Theory, Salesforce Trailhead)
 
-Each project is structured with relevant code and/or report with documentations to help you understand my intentions, approach and implementation! This Repository will be periodically updated when I am able display my projects done.
+Each project is structured with relevant code and/or report with documentations to help you understand my intentions, approach and implementation! This Repository will be periodically updated when I am able display my completed projects.
 
 ## 🔗 Let's Connect!  
 If you have feedback, suggestions, on how I can improve, feel free to connect with me on Linkedin or through my website "Contact me" form.! 🚀  
