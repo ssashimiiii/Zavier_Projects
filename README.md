@@ -7,15 +7,15 @@ This repository serves as my **personal project gallery**, where I showcase a co
 ## 📌 What You'll Find Here  
 This repository contains **diverse projects**, covering:  
 
-✅ **Programming & Software Development** (Python, C#, PySpark) 
+✅ **Programming Development**
 
-✅ **Data Science & Analytics** (Jupyter Notebook, Tableau, SAP Analytics Cloud) 
+✅ **Data Science & Analytics**
 
-✅ **Machine Learning & Visualization** (Predictive models, dashboards)  
+✅ **Machine Learning Models**
 
-✅ **Digital Design & User Experience** (Figma, Photoshop)
+✅ **Digital Design & User Experience** 
 
-✅ **Business Technology & Digital Marketing** (Michael Porter's Theory, Salesforce Trailhead)
+✅ **Business Technology & Digital Marketing**
 
 Each project is structured with relevant code and/or report with documentations to help you understand my intentions, approach and implementation! This Repository will be periodically updated when I am able display my completed projects.
 
