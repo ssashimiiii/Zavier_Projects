@@ -19,6 +19,8 @@ This repository contains **diverse projects**, covering:
 
 Each project is structured with relevant code and/or report with documentations to help you understand my intentions, approach and implementation! This Repository will be periodically updated when I am able display my completed projects.
 
+If you are unable to preview the projects, do click on download raw file to view.
+
 ## 🔗 Let's Connect!  
 If you have feedback, suggestions, on how I can improve, feel free to connect with me on Linkedin or through my website "Contact me" form.! 🚀  
 
