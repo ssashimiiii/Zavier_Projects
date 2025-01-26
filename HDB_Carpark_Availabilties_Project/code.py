@@ -1,5 +1,3 @@
-#Tan Jun Yu Zavier S10255651D P09
-
 # Part 1 - This part reads the data from 'carpark-information.csv'.
 list_of_dict = []
 carpark_list = []
